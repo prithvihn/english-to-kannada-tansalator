@@ -1,7 +1,7 @@
 # English to Kannada Translator with Text-to-Speech
 
 A powerful Python desktop application that translates English text to Kannada with integrated text-to-speech functionality.
-
+Deployed demo link:https://english-to-kannada-tansalator-2.onrender.com
 ## Features
 
 ✨ **Key Features:**
