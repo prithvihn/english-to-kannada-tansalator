@@ -169,8 +169,3 @@ For issues, suggestions, or contributions:
 
 **Happy Translating! 🎉**
 
-## Keyboard Shortcuts
-
-- **Ctrl+A**: Select all text
-- **Ctrl+C**: Copy text
-- **Ctrl+V**: Paste text
